@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennnm&label=Profile%20views&color=0e75b6&style=flat" alt="ennnm" /> </p>
 
-- 🌱 I’m currently learning **Golang, DSNA**
-
 - 👨‍💻 All of my projects are available at [https://spectacular-macaw-96e.notion.site/Yo-Jia-En-here-2a910d07d7074934a10e0c56aa67e17b](https://spectacular-macaw-96e.notion.site/Yo-Jia-En-here-2a910d07d7074934a10e0c56aa67e17b)
 
 - 📫 How to reach me **jiaen.1sc4@gmail.com**
